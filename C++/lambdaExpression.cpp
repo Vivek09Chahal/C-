@@ -24,6 +24,7 @@ class A{
 };
 
 int main(){
+    cout << "Hello World" << endl;
     func();
     A obj;
     obj.test();
