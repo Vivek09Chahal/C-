@@ -17,3 +17,29 @@ int main(){
     cout << d.a << " " << d.b << endl;
     return 0;
 }
+
+/*
+    #include <iostream>
+    using namespace std;
+    using ll = long long; // Here we alias "ll" to stand for long long and save typing it out
+
+    int main() {
+
+    ll a = 5;
+    cout << a;
+    return 0;
+    }
+*/
+
+
+/*
+    #include <iostream>
+    using std::cout;
+    using std::endl;
+
+    int main() {
+    cout << "Hello, world!" << endl;
+    return 0;
+    }
+
+*/
